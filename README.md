@@ -63,6 +63,3 @@ TaxFiler simplifies income tax calculations for users, enabling them to easily n
 - **Enhanced Data Security**: Additional encryption measures for sensitive data.
 
 
-
-
-*This project is maintained with ❤️ by Aarthi*
